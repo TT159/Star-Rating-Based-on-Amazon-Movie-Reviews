@@ -19,6 +19,7 @@ This is a kaggle competition project. The goal of this project is to predict the
 * Summary - brief summary of the review
 * Text - text of the review
 * Id - a unique identifier associated with a review  
+
 Note: Some of the rows of the table may have some of these values missing.
 
 #### Dataset Citation
